@@ -15,8 +15,24 @@ Feel free to hover over the regions in the map with your mouse to see an info bo
 The correspondence between the names of regions in greek and egnlish is the following :
 
 <p align="center">
-  | Greek (Ελληνικά) | English (Αγγλικά) |  
-  |       ---        |       ---         |
+  |    Greek (Ελληνικά)   |    English (Αγγλικά)    | 
+  |          ---          |           ---           | 
+  |      Άγιον Όρος       |     	Mount Athos       |
+  | Αν. Μακεδονία & Θράκη | East Macedonia & Thrace |
+  |        Αττική         | 	      Attica          | 
+  |     Βόρειο Αιγαίο     |  	    North Aegean      |
+  |     Δυτική Ελλάδα     |  	   Western Greece     |
+  |    Δυτική Μακεδονία   |  	  Western Macedonia   |
+  |        Ήπειρος        |  	      Epirus          |
+  |        Θεσσαλία       |  	     Thessaly         |
+  |      Ιόνια Νησιά      |  	   Ionian Islands     |
+  |  Κεντρική Μακεδονία   |  	 Central Macedonia    |
+  |         Κρήτη         |  	      Crete           |
+  |      Νότιο Αιγαίο     |  	   South Aegean       |
+  |      Πελοπόννησος     |      Peloponnese        |
+  |      Στερεά Ελλάδα    |     Central Greece      |
+  |     Υπό διερεύνηση    |  Under investigation    |
+  | Χωρίς μόνιμη κατικοία |  	 Of no fix abode      |
 </p>
 
 
