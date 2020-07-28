@@ -14,7 +14,7 @@ You can hover over the regions in the map with your mouse to see an info box abo
 
 The correspondence between the names of regions in greek and egnlish is the following :
 
-<p align='center'>
+<center>
 |    Greek (Ελληνικά)   |     English (Αγγλικά)   |   
 |          ---          |           ---           | 
 |      Άγιον Όρος       |     	Mount Athos       |
@@ -33,7 +33,7 @@ The correspondence between the names of regions in greek and egnlish is the foll
 |      Στερεά Ελλάδα    |     Central Greece      |
 |     Υπό διερεύνηση    |  Under investigation    |
 | Χωρίς μόνιμη κατικοία |  	 Of no fix abode      |
-</p>
+</center>
 
 ## Source of data : 
 The data which have been used in the file [*cases_per_region_Greece.ipynb*](https://github.com/kostasthanos/Covid-19-Regions-Greece/blob/master/cases_per_region_Greece.ipynb) are located in [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv) repository in **csv** format and are converted into **json** file inside the notebook.
