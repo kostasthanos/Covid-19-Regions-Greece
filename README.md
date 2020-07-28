@@ -14,10 +14,10 @@ Feel free to hover over the regions in the map with your mouse to see an info bo
 
 The correspondence between the names of regions in greek and egnlish is the following :
 
-<center>
-| Greek (Ελληνικά) | English (Αγγλικά) |
-|       ---        |       ---         |
-</center>
+<p align="center">
+  | Greek (Ελληνικά) | English (Αγγλικά) |
+  |       ---        |       ---         |
+</p>
 
 
 ## Source of data : [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv)
