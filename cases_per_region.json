@@ -10,44 +10,9 @@
         "number_of_cases": 480
     },
     {
-        "region_name_gr": "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
-        "region_name_en": "Central Macedonia",
-        "number_of_cases": 406
-    },
-    {
-        "region_name_gr": "\u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
-        "region_name_en": "Epirus",
-        "number_of_cases": 37
-    },
-    {
-        "region_name_gr": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
-        "region_name_en": "Thessaly",
-        "number_of_cases": 211
-    },
-    {
-        "region_name_gr": "\u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
-        "region_name_en": "Ionian Islands",
-        "number_of_cases": 58
-    },
-    {
-        "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
-        "region_name_en": "Western Greece",
-        "number_of_cases": 97
-    },
-    {
-        "region_name_gr": "\u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
-        "region_name_en": "Central Greece",
-        "number_of_cases": 103
-    },
-    {
         "region_name_gr": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
         "region_name_en": "Attica",
         "number_of_cases": 1911
-    },
-    {
-        "region_name_gr": "\u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5",
-        "region_name_en": "Peloponnese",
-        "number_of_cases": 206
     },
     {
         "region_name_gr": "\u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
@@ -55,9 +20,34 @@
         "number_of_cases": 27
     },
     {
-        "region_name_gr": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
-        "region_name_en": "South Aegean",
-        "number_of_cases": 51
+        "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
+        "region_name_en": "Western Greece",
+        "number_of_cases": 97
+    },
+    {
+        "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "region_name_en": "Western Macedonia",
+        "number_of_cases": 209
+    },
+    {
+        "region_name_gr": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
+        "region_name_en": "Thessaly",
+        "number_of_cases": 211
+    },
+    {
+        "region_name_gr": "\u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
+        "region_name_en": "Epirus",
+        "number_of_cases": 37
+    },
+    {
+        "region_name_gr": "\u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
+        "region_name_en": "Ionian Islands",
+        "number_of_cases": 58
+    },
+    {
+        "region_name_gr": "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "region_name_en": "Central Macedonia",
+        "number_of_cases": 406
     },
     {
         "region_name_gr": "\u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
@@ -65,9 +55,19 @@
         "number_of_cases": 48
     },
     {
-        "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
-        "region_name_en": "Western Macedonia",
-        "number_of_cases": 209
+        "region_name_gr": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+        "region_name_en": "South Aegean",
+        "number_of_cases": 51
+    },
+    {
+        "region_name_gr": "\u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5",
+        "region_name_en": "Peloponnese",
+        "number_of_cases": 206
+    },
+    {
+        "region_name_gr": "\u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
+        "region_name_en": "Central Greece",
+        "number_of_cases": 103
     },
     {
         "region_name_gr": "\u03a7\u03c9\u03c1\u03af\u03c2 \u039c\u03cc\u03bd\u03b9\u03bc\u03b7 \u039a\u03b1\u03c4\u03bf\u03b9\u03ba\u03af\u03b1",
