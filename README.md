@@ -8,7 +8,7 @@ The map on the left side of the page is divided by region while the color of eac
 
 Next to the map there are the greek regions classified in descending order by the number of cases. The data comes from page iMEdD and specifically from the GitHub repository iMEdD-Lab.
 
-On the right side of the page are the data about the days that the virus is active in the country, the total number of cases, the daily increase and when the page was last updated. Finally, there are some sources and the GitHub repository where the data about the progression of the pandemic in the country are presented in detail.
+On the right side of the page are the data about the days that the virus is active in the country, the total number of cases, the daily increase and the date of last update. Finally, there are some sources and the GitHub repository where the data about the progression of the pandemic in the country are presented in detail.
 
 Feel free to hover over the regions in the map with your mouse to see an info box about the cases in each region.
 
