@@ -15,7 +15,7 @@ Feel free to hover over the regions in the map with your mouse to see an info bo
 The correspondence between the names of regions in greek and egnlish is the following :
 
 <p align="center">
-  |    Greek (Ελληνικά)   |    English (Αγγλικά)    | 
+  |    Greek    |       | 
   |          ---          |           ---           | 
   |      Άγιον Όρος       |     	Mount Athos       |
   | Αν. Μακεδονία & Θράκη | East Macedonia & Thrace |
