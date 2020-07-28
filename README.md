@@ -10,7 +10,15 @@ Next to the map there are the greek regions classified in descending order by th
 
 On the right side of the page are the data about the days that the virus is active in the country, the total number of cases, the daily increase and when the page was last updated. Finally, there are some sources and the GitHub repository where the data about the progression of the pandemic in the country are presented in detail.
 
-Feel free to hover over the regions in the map with your mouse to see an info box about the cases in each region
+Feel free to hover over the regions in the map with your mouse to see an info box about the cases in each region.
+
+The correspondence between the names of regions in greek and egnlish is the following :
+
+<center>
+| Greek (Ελληνικά) | English (Αγγλικά) |
+|       ---        |       ---         |
+</center>
+
 
 ## Source of data : [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv)
 You can check also the full repository of iMedD-Lab about the data collection from here : [iMedD-Lab/open-data](https://github.com/iMEdD-Lab/open-data)
