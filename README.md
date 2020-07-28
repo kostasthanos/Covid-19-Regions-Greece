@@ -34,7 +34,9 @@ The correspondence between the names of regions in greek and egnlish is the foll
 | Χωρίς μόνιμη κατικοία |  	 Of no fix abode      |
 
 
-## Source of data : [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv)
+## Source of data : 
+The data which have been used in the file [*cases_per_region_Greece.ipynb*](https://github.com/kostasthanos/Covid-19-Regions-Greece/blob/master/cases_per_region_Greece.ipynb) are located in [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv) repository in **csv** format and are converted into **json** file insede the notebook.
+
 You can check also the full repository of iMedD-Lab about the data collection from here : [iMedD-Lab/open-data](https://github.com/iMEdD-Lab/open-data)
 
 ## Author
