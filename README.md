@@ -1,10 +1,9 @@
 # Covid-19 cases per region in Greece
-This repostory contains files from the page : [Covid-19 cases per region Greece](https://kostasthanos.github.io/svg_map_cases/regions_index.html).
+This repostory contains files for the page : [Covid-19 cases per region Greece](https://kostasthanos.github.io/svg_map_cases/regions_index.html).
 
-## Page *Covid-19 cases per region Greece*
+## [Covid-19 cases per region Greece](https://kostasthanos.github.io/svg_map_cases/regions_index.html)
 This page is showing the destribution of covid-19 cases per region in Greece. In this page you can find all the necessary details.
 
-### Explanation of page content
 The map on the left side of the page is divided by region while the color of each region becomes darker and darker as the number of cases in it increases.
 
 Next to the map there are the greek regions classified in descending order by the number of cases. The data comes from page iMEdD and specifically from the GitHub repository iMEdD-Lab.
