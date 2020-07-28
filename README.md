@@ -6,7 +6,7 @@ This page is showing the destribution of covid-19 cases per region in Greece. In
 
 The map on the left side of the page is divided by region while the color of each region becomes darker and darker as the number of cases in it increases.
 
-Next to the map there are the greek regions classified in descending order by the number of cases. The data comes from page iMEdD and specifically from the GitHub repository iMEdD-Lab.
+Next to the map there are the greek regions classified in descending order by the number of cases. The data comes from page iMEdD and specifically from the GitHub repository [iMEdD-Lab](https://github.com/iMEdD-Lab/open-data).
 
 On the right side of the page are the data about the days that the virus is active in the country, the total number of cases, the daily increase and the date of last update. Finally, there are some sources and the GitHub repository where the data about the progression of the pandemic in the country are presented in detail and with plots.
 
@@ -14,6 +14,7 @@ You can hover over the regions in the map with your mouse to see an info box abo
 
 The correspondence between the names of regions in greek and egnlish is the following :
 
+<p align='center'>
 |    Greek (Ελληνικά)   |     English (Αγγλικά)   |   
 |          ---          |           ---           | 
 |      Άγιον Όρος       |     	Mount Athos       |
@@ -32,10 +33,10 @@ The correspondence between the names of regions in greek and egnlish is the foll
 |      Στερεά Ελλάδα    |     Central Greece      |
 |     Υπό διερεύνηση    |  Under investigation    |
 | Χωρίς μόνιμη κατικοία |  	 Of no fix abode      |
-
+</p>
 
 ## Source of data : 
-The data which have been used in the file [*cases_per_region_Greece.ipynb*](https://github.com/kostasthanos/Covid-19-Regions-Greece/blob/master/cases_per_region_Greece.ipynb) are located in [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv) repository in **csv** format and are converted into **json** file insede the notebook.
+The data which have been used in the file [*cases_per_region_Greece.ipynb*](https://github.com/kostasthanos/Covid-19-Regions-Greece/blob/master/cases_per_region_Greece.ipynb) are located in [iMedD-Lab](https://raw.githubusercontent.com/iMEdD-Lab/open-data/master/COVID-19/regions_greece.csv) repository in **csv** format and are converted into **json** file inside the notebook.
 
 You can check also the full repository of iMedD-Lab about the data collection from here : [iMedD-Lab/open-data](https://github.com/iMEdD-Lab/open-data)
 
