@@ -39,8 +39,8 @@ The data which have been used in the file [*cases_per_region_Greece.ipynb*](http
 
 You can check also the full repository of iMedD-Lab about the data collection from here : [iMedD-Lab/open-data](https://github.com/iMEdD-Lab/open-data)
 
-## Check alse
-The following page which contains data plots of covid-19 cases in Greece and world. Page : [Covid-19 Data Plots](https://kostasthanos.github.io/svg_map_cases/Data_Plots/plots.html)
+## Check also
+The following page contains data plots of covid-19 cases in Greece and world. Page : [Covid-19 Data Plots](https://kostasthanos.github.io/svg_map_cases/Data_Plots/plots.html)
 
 ## Author
 * **Konstantinos Thanos**
