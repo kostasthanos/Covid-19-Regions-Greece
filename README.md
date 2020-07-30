@@ -6,7 +6,7 @@ This page is showing the destribution of covid-19 cases per region in Greece. In
 
 The map on the left side of the page is divided by region while the color of each region becomes darker and darker as the number of cases in it increases.
 
-Next to the map there are the greek regions classified in descending order by the number of cases. The data comes from page iMEdD and specifically from the GitHub repository [iMEdD-Lab](https://github.com/iMEdD-Lab/open-data).
+Next to the map there are the greek regions classified in descending order by the number of cases. The data comes from **iMEdD** and specifically from the GitHub repository [iMEdD-Lab](https://github.com/iMEdD-Lab/open-data).
 
 On the right side of the page are the data about the days that the virus is active in the country, the total number of cases, the daily increase and the date of last update. Finally, there are some sources and the GitHub repository where the data about the progression of the pandemic in the country are presented in detail and with plots.
 
