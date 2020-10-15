@@ -7,76 +7,76 @@
     {
         "region_name_gr": "\u0391\u03bd. \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2",
         "region_name_en": "East Macedonia-Thrace",
-        "number_of_cases": 776
+        "number_of_cases": 783
     },
     {
         "region_name_gr": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
         "region_name_en": "Attica",
-        "number_of_cases": 10226
+        "number_of_cases": 10427
     },
     {
         "region_name_gr": "\u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
         "region_name_en": "North Aegean",
-        "number_of_cases": 681
+        "number_of_cases": 692
     },
     {
         "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
         "region_name_en": "Western Greece",
-        "number_of_cases": 427
+        "number_of_cases": 434
     },
     {
         "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
         "region_name_en": "Western Macedonia",
-        "number_of_cases": 812
+        "number_of_cases": 858
     },
     {
         "region_name_gr": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
         "region_name_en": "Thessaly",
-        "number_of_cases": 949
+        "number_of_cases": 963
     },
     {
         "region_name_gr": "\u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
         "region_name_en": "Epirus",
-        "number_of_cases": 415
+        "number_of_cases": 435
     },
     {
         "region_name_gr": "\u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
         "region_name_en": "Ionian Islands",
-        "number_of_cases": 203
+        "number_of_cases": 207
     },
     {
         "region_name_gr": "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
         "region_name_en": "Central Macedonia",
-        "number_of_cases": 3412
+        "number_of_cases": 3460
     },
     {
         "region_name_gr": "\u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
         "region_name_en": "Crete",
-        "number_of_cases": 410
+        "number_of_cases": 411
     },
     {
         "region_name_gr": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
         "region_name_en": "South Aegean",
-        "number_of_cases": 323
+        "number_of_cases": 331
     },
     {
         "region_name_gr": "\u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5",
         "region_name_en": "Peloponnese",
-        "number_of_cases": 473
+        "number_of_cases": 479
     },
     {
         "region_name_gr": "\u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
         "region_name_en": "Central Greece",
-        "number_of_cases": 306
+        "number_of_cases": 313
     },
     {
         "region_name_gr": "\u03a7\u03c9\u03c1\u03af\u03c2 \u039c\u03cc\u03bd\u03b9\u03bc\u03b7 \u039a\u03b1\u03c4\u03bf\u03b9\u03ba\u03af\u03b1",
         "region_name_en": "Of no Fixed Abode",
-        "number_of_cases": 961
+        "number_of_cases": 980
     },
     {
         "region_name_gr": "\u03a5\u03c0\u03cc \u03b4\u03b9\u03b5\u03c1\u03b5\u03cd\u03bd\u03b7\u03c3\u03b7",
         "region_name_en": "Under Investigation",
-        "number_of_cases": 2681
+        "number_of_cases": 2717
     }
 ]
