@@ -1,6 +1,11 @@
 {
-    "Dates": "30/12",
-    "Total_Cases": 137918,
-    "Daily_Cases": 942,
-    "Daily_Increase": "+0.7%"
+    "Dates": "15/01/21",
+    "Total Cases": "147860",
+    "Daily Cases": "610",
+    "Total Recovered": "98312",
+    "Active Cases": "44127",
+    "Total RTPCR tests": "2945406",
+    "Total RAPID AG tests": "812024",
+    "Total Tests": "3757430",
+    "Daily Tests": "32528"
 }
