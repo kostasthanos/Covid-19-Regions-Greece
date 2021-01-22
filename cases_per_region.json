@@ -30,14 +30,14 @@
         "number_of_cases": 5629
     },
     {
-        "region_name_gr": "\u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
-        "region_name_en": "Epirus",
-        "number_of_cases": 2171
-    },
-    {
         "region_name_gr": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
         "region_name_en": "Thessaly",
         "number_of_cases": 13418
+    },
+    {
+        "region_name_gr": "\u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
+        "region_name_en": "Epirus",
+        "number_of_cases": 2171
     },
     {
         "region_name_gr": "\u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
