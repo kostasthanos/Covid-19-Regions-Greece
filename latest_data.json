@@ -1,15 +1,15 @@
 {
-    "Dates": "21/01/21",
-    "Total_Cases": "150479",
-    "Daily_Cases": "509",
-    "Total_Losses": "5570",
-    "Daily_Losses": "25",
-    "Intubated": "293",
+    "Dates": "06/02/21",
+    "Total_Cases": "163213",
+    "Daily_Cases": "1113",
+    "Total_Losses": "5951",
+    "Daily_Losses": "29",
+    "Intubated": "249",
     "Total_Recovered": "98312",
-    "Active_Cases": "46597",
-    "Total_RTPCR_tests": "3000313",
-    "Total_RAPID_AG_tests": "897881",
-    "Total_Tests": "3898194",
+    "Active_Cases": "58950",
+    "Total_RTPCR_tests": "3229203",
+    "Total_RAPID_AG_tests": "1176091",
+    "Total_Tests": "4405294",
     "Daily_Tests": "0",
-    "Daily_Change": "+0.3%"
+    "Daily_Change": "+0.7%"
 }
