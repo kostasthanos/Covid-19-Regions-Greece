@@ -1,78 +1,37 @@
 {
-    "Dates": "10/10/21",
-    "Daily_Cases": "1.001",
-    "Total_Cases": "222.222",
-    "Daily_Change": "+0.4%",
-    "Daily_Losses": "31",
-    "Total_Losses": "7.555",
-    "Intubated": "555",
-    "Total_RTPCR": "5.020.654",
-    "Total_RAPID": "3.000.123",
-    "Daily_Admissions": "423",
-    "Out_IC": "5.432",
-    "Cases_per_sex": "52.1%",
-    "Intubated_per_sex": "67.1%",
-    "Total_Recovered": "250.447",
-    "Active_Cases": "15.378",
-    "Total_Tests": "8.520.000",
-    "Daily_Tests": "23.432",
-    "Positivity_Rate": "7.55%",
- 	"general": { "total_vaccinations": "4.432.111",
-                 "daily_vaccinations": "35.428"},
-	"first_dose": { "total_vaccinations": "1.045.050",
-		    	    "daily_vaccinations": "20.870"},
-	"second_dose": { "total_vaccinations": "489.551",
-		    	     "daily_vaccinations": "15.428"},
+	"Dates": "10/10/21",
+	"Daily_Cases": "1.001",
+	"Total_Cases": "222.222",
+	"Daily_Change": "+0.4%",
+	"Daily_Losses": "31",
+	"Total_Losses": "7.555",
+	"Intubated": "555",
+	"Total_RTPCR": "5.020.654",
+	"Total_RAPID": "3.000.123",
+	"Daily_Admissions": "423",
+	"Out_IC": "5.432",
+	"Cases_per_sex": "52.1%",
+	"Intubated_per_sex": "67.1%",
+	"Total_Recovered": "250.447",
+	"Active_Cases": "15.378",
+	"Total_Tests": "8.520.000",
+	"Daily_Tests": "23.432",
+	"Positivity_Rate": "7.55%",
+	"general": { "total_vaccinations": "4.432.111", "daily_vaccinations": "35.428"},
+	"first_dose": { "total_vaccinations": "1.045.050", "daily_vaccinations": "20.870"},
+	"second_dose": { "total_vaccinations": "489.551","daily_vaccinations": "15.428"},
 	"Average_7days_Total_Cases": "4.048",
-    "Average_7days_RT-PCR_Tests": "14.421",
-    "Average_7days_RAPID_Tests": "27.456",
-    "Average_7days_Total_Tests": "31.012",
-    "Estimated_Rt": "1,10",
-    "Occupied_Single_Beds": "55%",
-    "Occupied_ICU_Beds": "77%",
-    "Average_7days_Vaccinations": "15.457",
-	"Total": {
-            "Total_Cases": {
-                "0 - 17": "17079",
-                "18 - 39": "78654",
-                "40 - 64": "97628",
-                "> 65": "39042"
-            },
-            "Total_Cases_Percentage": {
-                "0 - 17": "7.3%",
-                "18 - 39": "33.8%",
-                "40 - 64": "42.0%",
-                "> 65": "16.8%"
-            }
-        },
-        "Men": {
-            "Men_Cases": {
-                "0 - 17": "8989",
-                "18 - 39": "41864",
-                "40 - 64": "49582",
-                "> 65": "19057"
-            },
-            "Men_Cases_Percentage": {
-                "0 - 17": "7.5%",
-                "18 - 39": "35.0%",
-                "40 - 64": "41.5%",
-                "> 65": "15.9%"
-            }
-        },
-        "Women": {
-            "Women_Cases": {
-                "0 - 17": "8089",
-                "18 - 39": "36784",
-                "40 - 64": "48034",
-                "> 65": "19982"
-            },
-            "Women_Cases_Percentage": {
-                "0 - 17": "7.2%",
-                "18 - 39": "32.6%",
-                "40 - 64": "42.5%",
-                "> 65": "17.7%"
-            }
-        },
-	
-	
+	"Average_7days_RT-PCR_Tests": "14.421",
+	"Average_7days_RAPID_Tests": "27.456",
+	"Average_7days_Total_Tests": "31.012",
+	"Estimated_Rt": "1,10",
+	"Occupied_Single_Beds": "55%",
+	"Occupied_ICU_Beds": "77%",
+	"Average_7days_Vaccinations": "15.457",
+	"Total": { "Total_Cases": { "0 - 17": "17079", "18 - 39": "78654", "40 - 64": "97628", "> 65": "39042"},
+		  "Total_Cases_Percentage": {"0 - 17": "7.3%","18 - 39": "33.8%", "40 - 64": "42.0%","> 65": "16.8%"}},
+        "Men": {"Men_Cases": { "0 - 17": "8989", "18 - 39": "41864","40 - 64": "49582","> 65": "19057"},
+		"Men_Cases_Percentage": {"0 - 17": "7.5%","18 - 39": "35.0%","40 - 64": "41.5%","> 65": "15.9%"}},
+        "Women": {"Women_Cases": { "0 - 17": "8089","18 - 39": "36784","40 - 64": "48034","> 65": "19982"},
+		  "Women_Cases_Percentage": { "0 - 17": "7.2%", "18 - 39": "32.6%","40 - 64": "42.5%","> 65": "17.7%"}}
 }
