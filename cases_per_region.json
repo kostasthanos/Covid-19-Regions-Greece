@@ -1,82 +1,554 @@
 [
     {
-        "region_name_gr": "\u0386\u03b3\u03b9\u03bf\u03bd \u038c\u03c1\u03bf\u03c2",
-        "region_name_en": "Mount Athos",
-        "number_of_cases": 12
+        "region_id": "Attica",
+        "region_name_gr": "\u0391\u03a4\u03a4\u0399\u039a\u0397",
+        "region_name_en": "ATTICA",
+        "region_population": 3379437,
+        "total_cases": 65296.0,
+        "daily_cases": 1138.0
     },
     {
-        "region_name_gr": "\u0391\u03bd. \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2",
-        "region_name_en": "East Macedonia-Thrace",
-        "number_of_cases": 14462
+        "region_id": "MounthAthos",
+        "region_name_gr": "\u0391\u0393\u0399\u039f \u039f\u03a1\u039f\u03a3",
+        "region_name_en": "MOUNT ATHOS",
+        "region_population": 2416,
+        "total_cases": 40.0,
+        "daily_cases": NaN
     },
     {
-        "region_name_gr": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
-        "region_name_en": "Attica",
-        "number_of_cases": 84150
+        "region_id": "Aitoloakarnania",
+        "region_name_gr": "\u0391\u0399\u03a4\u03a9\u039b\u039f\u0391\u039a\u0391\u03a1\u039d\u0391\u039d\u0399\u0391\u03a3",
+        "region_name_en": "AITOLOAKARNANIAS",
+        "region_population": 210802,
+        "total_cases": 2512.0,
+        "daily_cases": 9.0
     },
     {
-        "region_name_gr": "\u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
-        "region_name_en": "North Aegean",
-        "number_of_cases": 3314
+        "region_id": "Andros",
+        "region_name_gr": "\u0391\u039d\u0394\u03a1\u039f\u03a5",
+        "region_name_en": "ANDROU",
+        "region_population": 9221,
+        "total_cases": 30.0,
+        "daily_cases": NaN
     },
     {
-        "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
-        "region_name_en": "Western Greece",
-        "number_of_cases": 9786
+        "region_id": "Argolida",
+        "region_name_gr": "\u0391\u03a1\u0393\u039f\u039b\u0399\u0394\u0391\u03a3",
+        "region_name_en": "ARGOLIDAS",
+        "region_population": 97044,
+        "total_cases": 1696.0,
+        "daily_cases": 10.0
     },
     {
-        "region_name_gr": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
-        "region_name_en": "Western Macedonia",
-        "number_of_cases": 7103
+        "region_id": "Arkadia",
+        "region_name_gr": "\u0391\u03a1\u039a\u0391\u0394\u0399\u0391\u03a3",
+        "region_name_en": "ARKADIAS",
+        "region_population": 86685,
+        "total_cases": 1337.0,
+        "daily_cases": 24.0
     },
     {
-        "region_name_gr": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
-        "region_name_en": "Thessaly",
-        "number_of_cases": 17728
+        "region_id": "Arta",
+        "region_name_gr": "\u0391\u03a1\u03a4\u0391\u03a3",
+        "region_name_en": "ARTAS",
+        "region_population": 67877,
+        "total_cases": 588.0,
+        "daily_cases": 1.0
     },
     {
-        "region_name_gr": "\u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
-        "region_name_en": "Epirus",
-        "number_of_cases": 3801
+        "region_id": "Achaia",
+        "region_name_gr": "\u0391\u03a7\u0391\u03aa\u0391\u03a3",
+        "region_name_en": "ACHAIAS",
+        "region_population": 309694,
+        "total_cases": 8784.0,
+        "daily_cases": 83.0
     },
     {
-        "region_name_gr": "\u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
-        "region_name_en": "Ionian Islands",
-        "number_of_cases": 1440
+        "region_id": "Boiotia",
+        "region_name_gr": "\u0392\u039f\u0399\u03a9\u03a4\u0399\u0391\u03a3",
+        "region_name_en": "BOIOTIAS",
+        "region_population": 117920,
+        "total_cases": 2782.0,
+        "daily_cases": 58.0
     },
     {
-        "region_name_gr": "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
-        "region_name_en": "Central Macedonia",
-        "number_of_cases": 63573
+        "region_id": "Grevena",
+        "region_name_gr": "\u0393\u03a1\u0395\u0392\u0395\u039d\u03a9\u039d",
+        "region_name_en": "GREVENON",
+        "region_population": 31757,
+        "total_cases": 980.0,
+        "daily_cases": 8.0
     },
     {
-        "region_name_gr": "\u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
-        "region_name_en": "Crete",
-        "number_of_cases": 5469
+        "region_id": "Drama",
+        "region_name_gr": "\u0394\u03a1\u0391\u039c\u0391\u03a3",
+        "region_name_en": "DRAMAS",
+        "region_population": 98287,
+        "total_cases": 3336.0,
+        "daily_cases": 17.0
     },
     {
-        "region_name_gr": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
-        "region_name_en": "South Aegean",
-        "number_of_cases": 2378
+        "region_id": "Evros",
+        "region_name_gr": "\u0395\u0392\u03a1\u039f\u03a5",
+        "region_name_en": "EVROU",
+        "region_population": 147947,
+        "total_cases": 3433.0,
+        "daily_cases": 14.0
     },
     {
-        "region_name_gr": "\u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5",
-        "region_name_en": "Peloponnese",
-        "number_of_cases": 6160
+        "region_id": "Euboia",
+        "region_name_gr": "\u0395\u03a5\u0392\u039f\u0399\u0391\u03a3",
+        "region_name_en": "EUBOIAS",
+        "region_population": 210815,
+        "total_cases": 3322.0,
+        "daily_cases": 18.0
     },
     {
-        "region_name_gr": "\u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
-        "region_name_en": "Central Greece",
-        "number_of_cases": 7398
+        "region_id": "Evrytania",
+        "region_name_gr": "\u0395\u03a5\u03a1\u03a5\u03a4\u0391\u039d\u0399\u0391\u03a3",
+        "region_name_en": "EVRYTANIAS",
+        "region_population": 20081,
+        "total_cases": 496.0,
+        "daily_cases": 2.0
     },
     {
-        "region_name_gr": "\u03a5\u03c0\u03cc \u03b4\u03b9\u03b5\u03c1\u03b5\u03cd\u03bd\u03b7\u03c3\u03b7",
-        "region_name_en": "Under Investigation",
-        "number_of_cases": 5639
+        "region_id": "Zakynthos",
+        "region_name_gr": "\u0396\u0391\u039a\u03a5\u039d\u0398\u039f\u03a5",
+        "region_name_en": "ZAKYNTHOU",
+        "region_population": 40759,
+        "total_cases": 555.0,
+        "daily_cases": 3.0
     },
     {
-        "region_name_gr": "\u03a7\u03c9\u03c1\u03af\u03c2 \u039c\u03cc\u03bd\u03b9\u03bc\u03b7 \u039a\u03b1\u03c4\u03bf\u03b9\u03ba\u03af\u03b1",
-        "region_name_en": "Of no Fixed Abode",
-        "number_of_cases": 4701
+        "region_id": "Ileia",
+        "region_name_gr": "\u0397\u039b\u0395\u0399\u0391\u03a3",
+        "region_name_en": "ILEIAS",
+        "region_population": 159300,
+        "total_cases": 1782.0,
+        "daily_cases": 16.0
+    },
+    {
+        "region_id": "Imathia",
+        "region_name_gr": "\u0397\u039c\u0391\u0398\u0399\u0391\u03a3",
+        "region_name_en": "IMATHIAS",
+        "region_population": 140611,
+        "total_cases": 4333.0,
+        "daily_cases": 23.0
+    },
+    {
+        "region_id": "Irakleio",
+        "region_name_gr": "\u0397\u03a1\u0391\u039a\u039b\u0395\u0399\u039f\u03a5",
+        "region_name_en": "IRAKLEIOU",
+        "region_population": 305490,
+        "total_cases": 3786.0,
+        "daily_cases": 55.0
+    },
+    {
+        "region_id": "Thasos",
+        "region_name_gr": "\u0398\u0391\u03a3\u039f\u03a5",
+        "region_name_en": "THASOU",
+        "region_population": 13770,
+        "total_cases": 149.0,
+        "daily_cases": 1.0
+    },
+    {
+        "region_id": "Thesprotia",
+        "region_name_gr": "\u0398\u0395\u03a3\u03a0\u03a1\u03a9\u03a4\u0399\u0391\u03a3",
+        "region_name_en": "THESPROTIAS",
+        "region_population": 43587,
+        "total_cases": 552.0,
+        "daily_cases": 2.0
+    },
+    {
+        "region_id": "Thessaloniki",
+        "region_name_gr": "\u0398\u0395\u03a3\u03a3\u0391\u039b\u039f\u039d\u0399\u039a\u0397\u03a3",
+        "region_name_en": "THESSALONIKIS",
+        "region_population": 1110551,
+        "total_cases": 47666.0,
+        "daily_cases": 391.0
+    },
+    {
+        "region_id": "Thera",
+        "region_name_gr": "\u0398\u0397\u03a1\u0391\u03a3",
+        "region_name_en": "THERAS",
+        "region_population": 18883,
+        "total_cases": 172.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Ithaki",
+        "region_name_gr": "\u0399\u0398\u0391\u039a\u0397\u03a3",
+        "region_name_en": "ITHAKIS",
+        "region_population": 3231,
+        "total_cases": 18.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Ikaria",
+        "region_name_gr": "\u0399\u039a\u0391\u03a1\u0399\u0391\u03a3",
+        "region_name_en": "IKARIAS",
+        "region_population": 9882,
+        "total_cases": 2.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Ioannina",
+        "region_name_gr": "\u0399\u03a9\u0391\u039d\u039d\u0399\u039d\u03a9\u039d",
+        "region_name_en": "IOANNINON",
+        "region_population": 167901,
+        "total_cases": 3109.0,
+        "daily_cases": 28.0
+    },
+    {
+        "region_id": "Kavala",
+        "region_name_gr": "\u039a\u0391\u0392\u0391\u039b\u0391\u03a3",
+        "region_name_en": "KAVALAS",
+        "region_population": 124917,
+        "total_cases": 3345.0,
+        "daily_cases": 33.0
+    },
+    {
+        "region_id": "Kalymnos",
+        "region_name_gr": "\u039a\u0391\u039b\u03a5\u039c\u039d\u039f\u03a5",
+        "region_name_en": "KALYMNOU",
+        "region_population": 29452,
+        "total_cases": 727.0,
+        "daily_cases": 5.0
+    },
+    {
+        "region_id": "Karditsa",
+        "region_name_gr": "\u039a\u0391\u03a1\u0394\u0399\u03a4\u03a3\u0391\u03a3",
+        "region_name_en": "KARDITSAS",
+        "region_population": 113544,
+        "total_cases": 3093.0,
+        "daily_cases": 18.0
+    },
+    {
+        "region_id": "Karpathos",
+        "region_name_gr": "\u039a\u0391\u03a1\u03a0\u0391\u0398\u039f\u03a5",
+        "region_name_en": "KARPATHOU",
+        "region_population": 7310,
+        "total_cases": 40.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Kastoria",
+        "region_name_gr": "\u039a\u0391\u03a3\u03a4\u039f\u03a1\u0399\u0391\u03a3",
+        "region_name_en": "KASTORIAS",
+        "region_population": 50322,
+        "total_cases": 1377.0,
+        "daily_cases": 18.0
+    },
+    {
+        "region_id": "Kea",
+        "region_name_gr": "\u039a\u0395\u0391\u03a3",
+        "region_name_en": "KEAS",
+        "region_population": 3911,
+        "total_cases": 0.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Kerkyra",
+        "region_name_gr": "\u039a\u0395\u03a1\u039a\u03a5\u03a1\u0391\u03a3",
+        "region_name_en": "KERKYRAS",
+        "region_population": 104371,
+        "total_cases": 878.0,
+        "daily_cases": 6.0
+    },
+    {
+        "region_id": "Kefallinia",
+        "region_name_gr": "\u039a\u0395\u03a6\u0391\u039b\u039b\u0397\u039d\u0399\u0391\u03a3",
+        "region_name_en": "KEFALLINIAS",
+        "region_population": 35801,
+        "total_cases": 217.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Kilkis",
+        "region_name_gr": "\u039a\u0399\u039b\u039a\u0399\u03a3",
+        "region_name_en": "KILKIS",
+        "region_population": 80419,
+        "total_cases": 2998.0,
+        "daily_cases": 49.0
+    },
+    {
+        "region_id": "Kozani",
+        "region_name_gr": "\u039a\u039f\u0396\u0391\u039d\u0397\u03a3",
+        "region_name_en": "KOZANIS",
+        "region_population": 150196,
+        "total_cases": 5427.0,
+        "daily_cases": 53.0
+    },
+    {
+        "region_id": "Korinthia",
+        "region_name_gr": "\u039a\u039f\u03a1\u0399\u039d\u0398\u0399\u0391\u03a3",
+        "region_name_en": "KORINTHIAS",
+        "region_population": 145082,
+        "total_cases": 2785.0,
+        "daily_cases": 42.0
+    },
+    {
+        "region_id": "Kos",
+        "region_name_gr": "\u039a\u03a9",
+        "region_name_en": "KO",
+        "region_population": 34396,
+        "total_cases": 249.0,
+        "daily_cases": 4.0
+    },
+    {
+        "region_id": "Lakonia",
+        "region_name_gr": "\u039b\u0391\u039a\u03a9\u039d\u0399\u0391\u03a3",
+        "region_name_en": "LAKONIAS",
+        "region_population": 89138,
+        "total_cases": 691.0,
+        "daily_cases": 5.0
+    },
+    {
+        "region_id": "Larisa",
+        "region_name_gr": "\u039b\u0391\u03a1\u0399\u03a3\u0391\u03a3",
+        "region_name_en": "LARISAS",
+        "region_population": 284325,
+        "total_cases": 10692.0,
+        "daily_cases": 71.0
+    },
+    {
+        "region_id": "Lasithi",
+        "region_name_gr": "\u039b\u0391\u03a3\u0399\u0398\u0399\u039f\u03a5",
+        "region_name_en": "LASITHIOU",
+        "region_population": 75381,
+        "total_cases": 489.0,
+        "daily_cases": 3.0
+    },
+    {
+        "region_id": "Lesvos",
+        "region_name_gr": "\u039b\u0395\u03a3\u0392\u039f\u03a5",
+        "region_name_en": "LESVOU",
+        "region_population": 86436,
+        "total_cases": 2517.0,
+        "daily_cases": 4.0
+    },
+    {
+        "region_id": "Leukada",
+        "region_name_gr": "\u039b\u0395\u03a5\u039a\u0391\u0394\u0391\u03a3",
+        "region_name_en": "LEUKADAS",
+        "region_population": 23693,
+        "total_cases": 210.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Limnos",
+        "region_name_gr": "\u039b\u0397\u039c\u039d\u039f\u03a5",
+        "region_name_en": "LIMNOU",
+        "region_population": 17262,
+        "total_cases": 18.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Magnisia",
+        "region_name_gr": "\u039c\u0391\u0393\u039d\u0397\u03a3\u0399\u0391\u03a3",
+        "region_name_en": "MAGNISIAS",
+        "region_population": 190010,
+        "total_cases": 4599.0,
+        "daily_cases": 22.0
+    },
+    {
+        "region_id": "Messinia",
+        "region_name_gr": "\u039c\u0395\u03a3\u03a3\u0397\u039d\u0399\u0391\u03a3",
+        "region_name_en": "MESSINIAS",
+        "region_population": 159954,
+        "total_cases": 1213.0,
+        "daily_cases": 7.0
+    },
+    {
+        "region_id": "Milos",
+        "region_name_gr": "\u039c\u0397\u039b\u039f\u03a5",
+        "region_name_en": "MILOU",
+        "region_population": 9932,
+        "total_cases": 38.0,
+        "daily_cases": 1.0
+    },
+    {
+        "region_id": "Mykonos",
+        "region_name_gr": "\u039c\u03a5\u039a\u039f\u039d\u039f\u03a5",
+        "region_name_en": "MYKONOU",
+        "region_population": 10134,
+        "total_cases": 221.0,
+        "daily_cases": 1.0
+    },
+    {
+        "region_id": "Naxos",
+        "region_name_gr": "\u039d\u0391\u039e\u039f\u03a5",
+        "region_name_en": "NAXOU",
+        "region_population": 20877,
+        "total_cases": 112.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Xanthi",
+        "region_name_gr": "\u039e\u0391\u039d\u0398\u0397\u03a3",
+        "region_name_en": "XANTHIS",
+        "region_population": 111222,
+        "total_cases": 2977.0,
+        "daily_cases": 12.0
+    },
+    {
+        "region_id": "Paros",
+        "region_name_gr": "\u03a0\u0391\u03a1\u039f\u03a5",
+        "region_name_en": "PAROU",
+        "region_population": 14926,
+        "total_cases": 33.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Pella",
+        "region_name_gr": "\u03a0\u0395\u039b\u039b\u0391\u03a3",
+        "region_name_en": "PELLAS",
+        "region_population": 139680,
+        "total_cases": 5748.0,
+        "daily_cases": 59.0
+    },
+    {
+        "region_id": "Pieria",
+        "region_name_gr": "\u03a0\u0399\u0395\u03a1\u0399\u0391\u03a3",
+        "region_name_en": "PIERIAS",
+        "region_population": 126698,
+        "total_cases": 4514.0,
+        "daily_cases": 20.0
+    },
+    {
+        "region_id": "Preveza",
+        "region_name_gr": "\u03a0\u03a1\u0395\u0392\u0395\u0396\u0391\u03a3",
+        "region_name_en": "PREVEZAS",
+        "region_population": 57491,
+        "total_cases": 424.0,
+        "daily_cases": 1.0
+    },
+    {
+        "region_id": "Rethymno",
+        "region_name_gr": "\u03a1\u0395\u0398\u03a5\u039c\u039d\u039f\u03a5",
+        "region_name_en": "RETHYMNOU",
+        "region_population": 85609,
+        "total_cases": 1273.0,
+        "daily_cases": 19.0
+    },
+    {
+        "region_id": "Rodopi",
+        "region_name_gr": "\u03a1\u039f\u0394\u039f\u03a0\u0397\u03a3",
+        "region_name_en": "RODOPIS",
+        "region_population": 112039,
+        "total_cases": 2643.0,
+        "daily_cases": 6.0
+    },
+    {
+        "region_id": "Rodos",
+        "region_name_gr": "\u03a1\u039f\u0394\u039f\u03a5",
+        "region_name_en": "RODOU",
+        "region_population": 119830,
+        "total_cases": 551.0,
+        "daily_cases": 16.0
+    },
+    {
+        "region_id": "Samos",
+        "region_name_gr": "\u03a3\u0391\u039c\u039f\u03a5",
+        "region_name_en": "SAMOU",
+        "region_population": 32977,
+        "total_cases": 401.0,
+        "daily_cases": 2.0
+    },
+    {
+        "region_id": "Serres",
+        "region_name_gr": "\u03a3\u0395\u03a1\u03a1\u03a9\u039d",
+        "region_name_en": "SERRON",
+        "region_population": 176430,
+        "total_cases": 5364.0,
+        "daily_cases": 62.0
+    },
+    {
+        "region_id": "Sporades",
+        "region_name_gr": "\u03a3\u03a0\u039f\u03a1\u0391\u0394\u03a9\u039d",
+        "region_name_en": "SPORADON",
+        "region_population": 13798,
+        "total_cases": 89.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Syros",
+        "region_name_gr": "\u03a3\u03a5\u03a1\u039f\u03a5",
+        "region_name_en": "SYROU",
+        "region_population": 21507,
+        "total_cases": 67.0,
+        "daily_cases": NaN
+    },
+    {
+        "region_id": "Tinos",
+        "region_name_gr": "\u03a4\u0397\u039d\u039f\u03a5",
+        "region_name_en": "TINOU",
+        "region_population": 8636,
+        "total_cases": 31.0,
+        "daily_cases": 4.0
+    },
+    {
+        "region_id": "Trikala",
+        "region_name_gr": "\u03a4\u03a1\u0399\u039a\u0391\u039b\u03a9\u039d",
+        "region_name_en": "TRIKALON",
+        "region_population": 131085,
+        "total_cases": 2398.0,
+        "daily_cases": 16.0
+    },
+    {
+        "region_id": "UnderInvestigation",
+        "region_name_gr": "\u03a5\u03a0\u039f \u0394\u0399\u0395\u03a1\u0395\u03a5\u039d\u0397\u03a3\u0397",
+        "region_name_en": "UNDER INVESTIGATION",
+        "region_population": 0,
+        "total_cases": 4191.0,
+        "daily_cases": 47.0
+    },
+    {
+        "region_id": "Fthiotida",
+        "region_name_gr": "\u03a6\u0398\u0399\u03a9\u03a4\u0399\u0394\u0391\u03a3",
+        "region_name_en": "FTHIOTIDAS",
+        "region_population": 158231,
+        "total_cases": 2439.0,
+        "daily_cases": 17.0
+    },
+    {
+        "region_id": "Florina",
+        "region_name_gr": "\u03a6\u039b\u03a9\u03a1\u0399\u039d\u0391\u03a3",
+        "region_name_en": "FLORINAS",
+        "region_population": 51414,
+        "total_cases": 1345.0,
+        "daily_cases": 4.0
+    },
+    {
+        "region_id": "Fokida",
+        "region_name_gr": "\u03a6\u03a9\u039a\u0399\u0394\u0391\u03a3",
+        "region_name_en": "FOKIDAS",
+        "region_population": 40343,
+        "total_cases": 393.0,
+        "daily_cases": 3.0
+    },
+    {
+        "region_id": "Chalkidiki",
+        "region_name_gr": "\u03a7\u0391\u039b\u039a\u0399\u0394\u0399\u039a\u0397\u03a3",
+        "region_name_en": "CHALKIDIKIS",
+        "region_population": 87614,
+        "total_cases": 3610.0,
+        "daily_cases": 20.0
+    },
+    {
+        "region_id": "Chania",
+        "region_name_gr": "\u03a7\u0391\u039d\u0399\u03a9\u039d",
+        "region_name_en": "CHANION",
+        "region_population": 156585,
+        "total_cases": 1634.0,
+        "daily_cases": 32.0
+    },
+    {
+        "region_id": "Chios",
+        "region_name_gr": "\u03a7\u0399\u039f\u03a5",
+        "region_name_en": "CHIOU",
+        "region_population": 52674,
+        "total_cases": 768.0,
+        "daily_cases": 2.0
     }
 ]
